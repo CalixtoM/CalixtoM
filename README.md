@@ -4,6 +4,8 @@
 Meu nome é Matheus Calixto, sou desenvolvedor Web com formação tecnica em Informática P/ Internet. Atualmente curso **Análise e Desenvolvimento de Sistemas** na **Fatec Praia Grande**.
 Em meu perfil do GitHub costumo publicar projetos pessoais, trabalhos, além de alguns codigos desenvolvidos durante meus estudos.
 
+# Experiência Profissional e Acadêmica:
+
 #### 💼 Trabalho com:
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>  <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
@@ -20,9 +22,9 @@ Em meu perfil do GitHub costumo publicar projetos pessoais, trabalhos, além de 
 
 # Mais Sobre mim:
 
-Minhas Redes Sociais:
+#### Você pode encontrar mais sobre mim em:
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-calixto-29480719a/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/mcalixto1302/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-calixto-29480719a/) 
 
 
 <br>
@@ -35,7 +37,7 @@ Minhas Redes Sociais:
 
 <!--
 **CalixtoM/CalixtoM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/mcalixto1302/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

@@ -12,7 +12,6 @@ Em meu perfil do GitHub costumo publicar projetos pessoais, trabalhos, além de 
 #### 💼 Trabalhos realizados por mim:
 
 - [Landing Page D'Roma](https://www.mscasanapraia.com.br)
-- [Landing Page Molduras MSSoares](http://molduras.mscasanapraia.com.br)
 
 #### 📕 Já estudei:
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>

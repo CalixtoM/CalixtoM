@@ -30,8 +30,10 @@ Em meu perfil do GitHub costumo publicar projetos pessoais, trabalhos, além de 
 
 #### Você pode encontrar mais sobre mim em:
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-calixto-29480719a/) 
-##### Meu portfólio: calixtom.github.io/Portfolio/
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-calixto-29480719a/)
+
+[Portfólio](calixtom.github.io/Portfolio/)
+
 
 <br>
 

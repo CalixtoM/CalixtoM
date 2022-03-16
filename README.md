@@ -1,7 +1,7 @@
 # Olá Mundo! 👋
 
 
-Meu nome é Matheus Calixto, sou desenvolvedor Web com formação tecnica em Informática P/ Internet pela [Etec de Itanhaém](https://www.etecitanhaem.com.br/). Atualmente curso o terceiro semestre de **Análise e Desenvolvimento de Sistemas** na [Fatec Praia Grande](https://fatecpg.edu.br/).
+Meu nome é Matheus Calixto, sou desenvolvedor Web com formação tecnica em **Informática P/ Internet** pela [Etec de Itanhaém](https://www.etecitanhaem.com.br/). Atualmente curso o terceiro semestre de **Análise e Desenvolvimento de Sistemas** na [Fatec Praia Grande](https://fatecpg.edu.br/).
 Em meu perfil do GitHub tenho o intuito de publicar projetos pessoais, trabalhos, além de alguns codigos desenvolvidos durante meus estudos.
 
 # Experiência Profissional e Acadêmica:

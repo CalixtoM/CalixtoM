@@ -32,6 +32,7 @@ Em meu perfil do GitHub tenho o intuito de publicar projetos pessoais, trabalhos
 #### Você pode encontrar mais sobre mim em:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-calixto-29480719a/)
+Instagram: https://instagram.com/calixtolabs?utm_medium=copy_link
 
 <br>
 

@@ -1,14 +1,16 @@
 # Olá Mundo! 👋
 
 
-Meu nome é Matheus Calixto, sou desenvolvedor Web com formação tecnica em **Informática P/ Internet** pela [Etec de Itanhaém](https://www.etecitanhaem.com.br/). Atualmente estou no sexto semestre de **Análise e Desenvolvimento de Sistemas** na [Fatec Praia Grande](https://fatecpg.edu.br/). Trabalho atualmente como estagiário na área de **Manutenção e Suporte** Na Prefeitura de Praia Grande.
+Meu nome é Matheus Calixto, sou desenvolvedor Full Stack com formação em **Análise e Desenvolvimento de Sistemas** pela [Fatec Praia Grande](https://fatecpg.edu.br/). Atualmente estou cursando Pós Graduação Lato Sensu em Desenvolvimento de Sistemas Para Dispositivos Móveis Pelo IFSP. Também possuo formação técnica em **Informática P/ Internet** pela [Etec de Itanhaém](https://www.etecitanhaem.com.br/).
 Em meu perfil do GitHub tenho o intuito de publicar projetos pessoais, trabalhos, além de alguns codigos desenvolvidos durante meus estudos.
 
 ## Experiência Profissional e Acadêmica:
 
 ### 💼 Trabalho com:
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
@@ -19,27 +21,15 @@ Em meu perfil do GitHub tenho o intuito de publicar projetos pessoais, trabalhos
 
 - [Meu Portfólio](https://calixtom.github.io/Portfolio/)
 
-### 📕 Já estudei (acadêmico):
+### 📕 Também possuo conhecimento em:
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="vuejs logo"  />
 </div>
 
-### 📘 Já estudei (pessoal):
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-</div>
-
-
-### 📕 Atualmente estou estudando:
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="40" width="52" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
 </div>
 
 <!-- ### 📘 Atualmente estou estudando (pessoal): -->
